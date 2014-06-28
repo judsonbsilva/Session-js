@@ -1,0 +1,23 @@
+{
+  "name": "Session-js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/judsonbsilva/Session-js",
+  "authors": [
+    "Judson Silva <judsonbarroso@gmail.com>"
+  ],
+  "description": "Simulate a session using localStorage",
+  "main": "dist/session.min.js",
+  "keywords": [
+    "session",
+    "localStorage"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "gulpfile.js"
+  ]
+}
